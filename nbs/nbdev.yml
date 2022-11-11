@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://martinees.github.io/nbdev-hello-world"
+  description: "Introduction to nbdev. This is the initial test repository."
+  repo-branch: main
+  repo-url: "https://github.com/martinees/nbdev-hello-world"
